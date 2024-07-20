@@ -1,0 +1,8 @@
+div {
+  margin: auto;
+  max-width: fit-content;
+  font-size: xx-large;
+}
+div > p {
+  text-align: center;
+}
